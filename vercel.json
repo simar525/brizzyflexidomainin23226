@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://coconut21103614.temporary-demo.site/$1"
+ }
+  ]
+}
