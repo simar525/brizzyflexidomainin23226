@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/home",
-      "destination": "https://coconut21103614.temporary-demo.site/home"
+      "destination": "https://coconut21103614.temporary-demo.site"
  },
     {
       "source": "/(.*)",
